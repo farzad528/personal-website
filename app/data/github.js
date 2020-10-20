@@ -9,7 +9,7 @@ export const githubKeys = [
   'forks',
   'open_issues_count',
   'subscribers_count',
-  'pushed_at',
+  'pushed_at', 
 ];
 
 // TODO To be provided by an API

@@ -1,42 +1,41 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    link: '/projects/nearestdollar/',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
-    desc: 'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
-  }, {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
-    desc: 'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
-  }, {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
-    desc: 'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
-  }, {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    link: '/project/catdetector/',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc: 'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-     + 'Over 60,000 cats were classified before server bills made the project too expensive '
-     + 'to continue hosting.',
+    title: "Keeper Well Tool",
+    subtitle: "Internal Chevron Hackathon",
+    link: "/projects/dojo/",
+    image: "/images/projects/dojo.jpg",
+    date: "2019-11-20",
+    desc:
+      " " +
+      "Keeper Well Tool is a decision analysis tool that was originally designed as a macro-enabled excel workbook, which was refactored into a cloud-based web app with A.I capabilities to predict the cost of designing a well in offshore Gulf of Mexico.",
+  },
+  {
+    title: "COVID-19 Tracker",
+    subtitle: "Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon",
+    link: "https://covid19-tracker-6fff0.web.app/",
+    image: "/images/projects/covidtracker.jpg",
+    date: "2020-10-20",
+    desc:
+      "Dashboard's are the new cool thing! I was so inspired by these COVID trackers in order to provide valuable data insights to the world, I took a stab myself.",
+  },
+  {
+    title: "Spotify-Clone",
+    subtitle: "A clone of the famous music streaming app, Spotify",
+    link: "/project/spotify/",
+    image: "/images/projects/spotify.jpg",
+    date: "2020-09-20",
+    desc:
+      "Every day for the past 5 years, I have used the Spotify music streaming app, whether its listening to Avicci on my morning jog, The Daily Podcast on my way to work, or Mozart while I am coding! Check out my Spotify-Clone!",
+  },
+  {
+    title: "Netflix-Clone",
+    subtitle: "A netflix-clone",
+    link: "https://netflix-clone-5966a.web.app/",
+    image: "/images/projects/netflix.jpg",
+    date: "2020-08-20",
+    desc:
+      "I have been guilty of binge watching TV seasons at a time. Check out my Netflix-Clone!",
   },
 ];
 
