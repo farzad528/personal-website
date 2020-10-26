@@ -9,7 +9,10 @@ const Nav = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${BASE_PATH}/images/me_icon.jpg`} alt="" />
+        <img
+          src="https://github.com/farzad528/personal-website/blob/main/public/images/me_icon.jpg?raw=true"
+          alt=""
+        />
       </Link>
       <header>
         <h2>Farzad Sunavala</h2>
