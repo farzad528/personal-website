@@ -1,13 +1,13 @@
 #### Intro
 
-I am a technology professional at [Chevron](https://www.chevron.com/) where I work on developing business-enabling digital solutions across the oil and gas value chain to eliminate pain-points that my customers face and make them feel inspired to do the work they do and go home feeling fufilled by the work that they accomplish. My primary job functions are as a data scientist and software engineer.
+I am a technology professional at [Chevron](https://www.chevron.com/) where I work on developing business-enabling digital solutions across the oil and gas value chain to eliminate pain-points that my customers face and make them feel inspired to do the work they do and go home feeling fulfilled by the work that they accomplish. My primary job functions are as a data scientist and software engineer.
 <br>
 I am available to consult on interesting projects. I am particularly interested in procurement, supply chain management, and sustainability. I enjoy building web and mobile applications and may even be available for pro-bono work depending on the time commitment and the project. If you would like to arrange a meeting, I am based in Houston but willing to travel to U.S based locations.
 <br><br>
 
 #### Currently
 
-At Chevorn, I have learned how to work across diverse teams across multiple levels of leadership, build relationships with customers, support enterprise applications, and build software engineering organization capability for the numerous function. I've also served on the technical committee in the Offshore Operators Committee Blockchain Oil and Gas Consortium efforts (see [blockchainforenergy.net](https://www.blockchainforenergy.net/)).
+At Chevron, I have learned how to work across diverse teams across multiple levels of leadership, build relationships with customers, lead agile software development teams, serve as a Front-Developer SME, support critical petrotechnical enterprise applications, and build AI/ML and Software Engineering organization capability for the numerous functions. I've also served on the technical committee in the Offshore Operators Committee Blockchain Oil and Gas Consortium efforts (see [blockchainforenergy.net](https://www.blockchainforenergy.net/)).
 <br><br>
 
 You can ask me in person for other stories that I'm afraid to share with the internet.
@@ -43,7 +43,9 @@ You can ask me in person for other stories that I'm afraid to share with the int
 
 - I drew a family tree and have a very, very, very, distant connection to Freddie Mercury.
 - I got slapped in the face by a monkey.
+- I got tricked into eating a Ghost Pepper and didn't find it spicy. #BringOnTheHeat 
 - I added this page because so many people complained that my site was just a resume.
+
 
 #### I dream of
 

@@ -59,7 +59,7 @@ const Nav = () => (
         ))}
       </ul>
       <p className="copyright">
-        &copy; Farzad D&apos;Sunavala <Link to="/">fullstackfarzzy.com</Link>.
+        &copy; Farzad Sunavala <Link to="/">fullstackfarzzy.com</Link>.
       </p>
     </section>
   </section>
