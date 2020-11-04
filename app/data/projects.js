@@ -46,6 +46,15 @@ const data = [
     desc:
       "Messages - the go-to communication for millenials to quickly transfer thoughts, emotions, and gifs to your loved ones. Check out my iMessage-Clone using Redux!",
   },
+  {
+    title: "TikTok-Clone",
+    subtitle: "A TikTok-clone",
+    link: "/projects/tiktok/",
+    image: "https://github.com/farzad528/personal-website/blob/main/public/images/projects/tiktokpic.JPG?raw=true",
+    date: "2020-11-1",
+    desc:
+      "This app brings out the inner Gen Z in me! Who knew that a 15 second reel of people dancing and singing would turn into a $75 Billion social media app? ",
+  },
 ];
 
 export default data;
