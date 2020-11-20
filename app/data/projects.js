@@ -64,13 +64,23 @@ const data = [
 
   {
     title: "Amazon-Clone",
-    subtitle: "A Amazon-clone",
+    subtitle: "An Amazon-clone",
     link: "https://clone-1e996.web.app/",
     image:
       "https://github.com/farzad528/personal-website/blob/main/public/images/projects/amazon.JPG?raw=true",
     date: "2020-11-12",
     desc:
       "Amazonian - Someone who spends more than 50% of there paycheck on online binge shopping. Check out my Amazon-Clone! ",
+  },
+  {
+    title: "Airbnb-Clone",
+    subtitle: "An Airbnb-clone",
+    link: "https://airbnb-clone-6a982.web.app/",
+    image:
+      "https://github.com/farzad528/personal-website/blob/main/public/images/projects/airbnb.JPG?raw=true",
+    date: "2020-11-20",
+    desc:
+      "Airbnb - A lodging reservation marketplace that connects people who want to rent out their properites with people who are looking for accomodations in that locale! The app that broke the hotel industry! ",
   },
 ];
 
