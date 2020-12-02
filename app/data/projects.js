@@ -82,6 +82,15 @@ const data = [
     desc:
       "Airbnb - A lodging reservation marketplace that connects people who want to rent out their properites with people who are looking for accomodations in that locale! The app that broke the hotel industry! ",
   },
+  {
+    title: "Tinder-Clone",
+    subtitle: "A Tinder-clone",
+    link: "https://tinder-clone-1b8a5.web.app/",
+    image:
+      "https://github.com/farzad528/personal-website/blob/main/public/images/projects/tinder.JPG?raw=true",
+    date: "2020-12-20",
+    desc: "Tinder - A app that is supposed to network indiviudals based on photos, short bios, and common interests. I'll let your imagination take it from here.",
+  },
 ];
 
 export default data;
