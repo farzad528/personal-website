@@ -12,7 +12,7 @@ const Index = () => (
             <Link to="/">About this site</Link>
           </h2>
           <p>
-            A beautiful, responsive, react app written with modern Javascript.
+            A story of a young engineer who just tries to make others succeed.
           </p>
         </div>
       </header>
