@@ -12,7 +12,7 @@ const Index = () => (
             <Link to="/">About this site</Link>
           </h2>
           <p>
-            A story of a young engineer who just tries to make others succeed.
+            A story of an engineer who's just trying to empower others to succeed.
           </p>
         </div>
       </header>
