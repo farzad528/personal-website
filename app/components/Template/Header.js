@@ -25,6 +25,7 @@ const Header = () => (
             </li>
           ))}
         <a
+          target="_blank"
           href="https://ko-fi.com/fullstackfarzzy"
           className="app__navbar--link"
         >

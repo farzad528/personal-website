@@ -45,6 +45,13 @@ const Nav = () => (
             </Link>
           )}
         </li>
+        <a
+          target="_blank"
+          href="https://calendly.com/fullstackfarzzy/15min"
+          className="button"
+        >
+          Schedule a Call
+        </a>
       </ul>
     </section>
 
