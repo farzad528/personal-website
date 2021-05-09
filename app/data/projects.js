@@ -91,6 +91,15 @@ const data = [
     date: "2020-12-20",
     desc: "Tinder - A app that is supposed to network indiviudals based on photos, short bios, and common interests. I'll let your imagination take it from here.",
   },
+  {
+    title: "Google-Clone",
+    subtitle: "A Google-clone",
+    link: "https://google-clone-7kedhfso4-farzad528.vercel.app/",
+    image:
+      "https://github.com/farzad528/google-clone/blob/main/public/GoogleClone.JPG",
+    date: "2021-03-20",
+    desc: "Google - The holy mother of all search engines",
+  },
 ];
 
 export default data;
