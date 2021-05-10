@@ -98,7 +98,7 @@ const data = [
     image:
       "https://github.com/farzad528/personal-website/blob/main/public/images/projects/GoogleClone.JPG?raw=true",
     date: "2021-03-20",
-    desc: "Google - The holy mother of all search engines",
+    desc: "Google - The holy mother of all search engines. One of the best examples of turning an app name into an action verb (i.e. Hold up, I am googling how to poach an egg)",
   },
 ];
 
