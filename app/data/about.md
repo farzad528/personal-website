@@ -2,7 +2,7 @@
 
 I am a technology professional at [Chevron](https://www.chevron.com/) where I work on developing business-enabling digital solutions across the oil and gas value chain to eliminate pain-points that my customers face and make them feel inspired to do the work they do and go home feeling fulfilled by the work that they accomplish. My primary job functions are as a data scientist and software engineer.
 <br>
-I am available to consult on interesting projects. I am particularly interested in procurement, supply chain management, and sustainability. I enjoy building web and mobile applications and may even be available for pro-bono work depending on the time commitment and the project. If you would like to arrange a meeting, I am based in Houston but willing to travel to U.S based locations.
+I am available to consult on interesting projects. I am particularly interested in energy transition and sustainability. I enjoy building web and mobile applications and may even be available for pro-bono work depending on the time commitment and the project. If you would like to arrange a meeting, I am based in Houston but willing to travel to U.S based locations.
 <br><br>
 
 #### Currently

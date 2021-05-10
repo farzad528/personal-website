@@ -25,13 +25,7 @@ const Nav = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Farzad. I like building things. I am a{" "}
-        <a href="https://www.lsu.edu/eng/pete/index.php">
-          LSU Petroleum Engineering
-        </a>{" "}
-        graduate, self-taught programmer thanks to Stack Overflow, YouTube,
-        Udemy, Coursera, and edX, as well as the co-founder and CTO of{" "}
-        <a href="https://www.instagram.com/barstat.lsu/?hl=en">BarStat</a>.
+        Hi, I&apos;m Farzad. I like building software.
       </p>
       <ul className="actions">
         <li>
