@@ -96,7 +96,7 @@ const data = [
     subtitle: "A Google-clone",
     link: "https://google-clone-7kedhfso4-farzad528.vercel.app/",
     image:
-      "https://github.com/farzad528/google-clone/blob/main/public/GoogleClone.JPG",
+      "https://github.com/farzad528/personal-website/blob/main/public/images/projects/GoogleClone.JPG?raw=true",
     date: "2021-03-20",
     desc: "Google - The holy mother of all search engines",
   },
